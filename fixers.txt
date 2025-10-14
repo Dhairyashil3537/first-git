@@ -6,4 +6,9 @@ fixed another bug.
 one more bug detechted and fixed
 fourth bug is fixed
 
-fifth bug is fixed .
+fifth bug is fixed 
+
+
+
+
+another fix for the pink mode .
